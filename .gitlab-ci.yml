@@ -1,0 +1,5 @@
+test_simple:
+  script:
+    - echo "Hello le monde"
+    - date
+    - echo "Test terminé avec succès"
